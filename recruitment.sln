@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recruitment", "recruitment\recruitment.csproj", "{88655DB3-4815-4B50-B945-3CA3B9C96B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recruitmentTest", "recruitmentTest\recruitmentTest.csproj", "{1CB8C16E-24B4-46D0-87E4-D4F271A33D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88655DB3-4815-4B50-B945-3CA3B9C96B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88655DB3-4815-4B50-B945-3CA3B9C96B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88655DB3-4815-4B50-B945-3CA3B9C96B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88655DB3-4815-4B50-B945-3CA3B9C96B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB8C16E-24B4-46D0-87E4-D4F271A33D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB8C16E-24B4-46D0-87E4-D4F271A33D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB8C16E-24B4-46D0-87E4-D4F271A33D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB8C16E-24B4-46D0-87E4-D4F271A33D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
